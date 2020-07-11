@@ -1,3 +1,7 @@
+### STREAM LOBBY 
+
+Application to help streamers get viewers to play games with.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
