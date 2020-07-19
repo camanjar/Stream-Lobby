@@ -1,4 +1,5 @@
 ### STREAM LOBBY 
+Local link: http://localhost:3000
 
 Application to help streamers get viewers to play games with.
 
